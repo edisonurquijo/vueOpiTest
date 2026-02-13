@@ -1,3 +1,12 @@
-Sakai is an application template for Vue based on the [create-vue](https://github.com/vuejs/create-vue), the recommended way to start a Vite-powered Vue projects.
+Aplicacion contiene 
 
-Visit the [documentation](https://sakai.primevue.org/documentation) to get started.
+components para dashboard
+
+ProductFilter.vue
+Products.vue
+
+desde Produt filter se emite un evento para accionar la accion de busqueda
+
+contiene el servicio de productos escrito en typescipt
+
+
